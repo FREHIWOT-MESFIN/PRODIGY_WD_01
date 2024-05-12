@@ -1,0 +1,27 @@
+.hero-section {
+    background-image: url('/public/assets/assets/images/pexels-jonathan-borba-3316918.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 86vh;
+    display: flex;
+    align-items: center;
+    margin-top: 13svh;
+}
+.hero{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-inline: 10%;
+}
+.hero-copy{
+    background: rgba(255, 255, 255, 0.8);
+    width: 300px;
+    padding-inline: 50px;
+    height: 300px;
+    border-radius: 0.5rem;
+}
+.socials img{
+    display: block;
+    margin-bottom: 50px;
+}

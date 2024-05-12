@@ -1,0 +1,27 @@
+.Whyus-section{
+    margin: 50px;
+    text-align: center;
+}
+.wlist{
+    display: flex;
+    gap: 5px;
+    text-align: left;
+    margin-top: 40px;
+    padding-inline: 50px;
+}
+.wlist button{
+    color: brown;
+    border: brown 1px solid;
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin-left: 80%;
+}
+.wlist button:hover{
+    color: white;
+    background: brown;
+}
+.l1, .l2, .l3{
+    background-color: cornsilk;
+    padding: 10px 15px;
+    width: 100%;
+}

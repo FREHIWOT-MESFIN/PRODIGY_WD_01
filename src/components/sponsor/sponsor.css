@@ -1,0 +1,33 @@
+.sponsor-sec{
+    text-align: center;
+}
+.skills{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+    gap: 1rem;
+    overflow: hidden;
+    margin: 50px 20px;
+}
+.skill-display{
+    white-space: nowrap;
+    animation: 35s slide infinite linear;
+    
+}
+.skill-display div{
+   display: inline-block;
+   width: 200px;
+   height: 70px;
+   padding: 50px;
+   margin-left: 5%;
+}
+@keyframes slide {
+    from{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-100%);
+    }
+}
