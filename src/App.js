@@ -1,7 +1,6 @@
 import './App.css';
 import Nav from'./components/nav/nav';
 import Hero from './components/hero/hero';
-import Sponsor from './components/sponsor/sponsor';
 import About from './components/aboutus/about'
 import WhyUs from './components/whyus/whyus';
 import Products from './components/products/products';
@@ -14,7 +13,6 @@ function App() {
     <div >
       <Nav />
       <Hero/>
-      <Sponsor/>
       <About/>
       <WhyUs/>
       <Products/>
