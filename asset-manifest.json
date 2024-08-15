@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/FREHIWOT-MESFIN/PRODIGY_WD_01.git/static/css/main.a9fb8d0f.css",
-    "main.js": "/FREHIWOT-MESFIN/PRODIGY_WD_01.git/static/js/main.e3c54051.js",
-    "static/media/pexels-jonathan-borba-3316918.jpg": "/FREHIWOT-MESFIN/PRODIGY_WD_01.git/static/media/pexels-jonathan-borba-3316918.28340b3a118e98a3cf21.jpg",
-    "static/media/slick.svg": "/FREHIWOT-MESFIN/PRODIGY_WD_01.git/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/FREHIWOT-MESFIN/PRODIGY_WD_01.git/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/FREHIWOT-MESFIN/PRODIGY_WD_01.git/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/FREHIWOT-MESFIN/PRODIGY_WD_01.git/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/FREHIWOT-MESFIN/PRODIGY_WD_01.git/index.html",
-    "main.a9fb8d0f.css.map": "/FREHIWOT-MESFIN/PRODIGY_WD_01.git/static/css/main.a9fb8d0f.css.map",
-    "main.e3c54051.js.map": "/FREHIWOT-MESFIN/PRODIGY_WD_01.git/static/js/main.e3c54051.js.map"
+    "main.css": "/PRODIGY_WD_01/static/css/main.e540b001.css",
+    "main.js": "/PRODIGY_WD_01/static/js/main.e3c54051.js",
+    "static/media/pexels-jonathan-borba-3316918.jpg": "/PRODIGY_WD_01/static/media/pexels-jonathan-borba-3316918.28340b3a118e98a3cf21.jpg",
+    "static/media/slick.svg": "/PRODIGY_WD_01/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/PRODIGY_WD_01/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/PRODIGY_WD_01/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/PRODIGY_WD_01/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/PRODIGY_WD_01/index.html",
+    "main.e540b001.css.map": "/PRODIGY_WD_01/static/css/main.e540b001.css.map",
+    "main.e3c54051.js.map": "/PRODIGY_WD_01/static/js/main.e3c54051.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9fb8d0f.css",
+    "static/css/main.e540b001.css",
     "static/js/main.e3c54051.js"
   ]
 }
