@@ -6,7 +6,7 @@
     height: 86vh;
     display: flex;
     align-items: center;
-    margin-top: 13svh;
+    margin-top: 3.5rem;
 }
 .hero{
     width: 100%;
@@ -24,4 +24,14 @@
 .socials img{
     display: block;
     margin-bottom: 50px;
+}
+@media (max-width: 700px) {
+    .hero{
+        flex-direction: column;
+        gap: 2rem;
+    }
+    .socials img{
+        display: inline-block;
+        margin: 1rem;
+    }
 }

@@ -28,20 +28,29 @@
 }
 
 @media (max-width: 700px) {
+
     .about-section{
+        font-size: 14px;
         flex-direction: column;
     }
     .about-copy{
        margin-bottom: 40px;
+       text-align: center;
+       padding: .25rem;
     }
     .about-img :nth-child(1){
         height: 300px;
     }
     .about-img{
-        width: 400px;
+        width: 350px;
+        margin: 0;
+        padding: 0;
     }
     .about-img :nth-child(2){
         top: -15%;
         left: 62%;
+    }
+    .about-img :nth-child(2){
+        display: none;
     }
 }
