@@ -1,18 +1,23 @@
 {
   "files": {
     "main.css": "/PRODIGY_WD_01/static/css/main.e540b001.css",
-    "main.js": "/PRODIGY_WD_01/static/js/main.e3c54051.js",
+    "main.js": "/PRODIGY_WD_01/static/js/main.092485ce.js",
+    "static/media/furniture.mp4": "/PRODIGY_WD_01/static/media/furniture.d936b1092f9c77359c09.mp4",
+    "static/media/pexels-dalila-dalprat-2179214.jpg": "/PRODIGY_WD_01/static/media/pexels-dalila-dalprat-2179214.ac992dcb87b4f5feb14b.jpg",
+    "static/media/office.jpg": "/PRODIGY_WD_01/static/media/office.686693a6a07951e24cf2.jpg",
     "static/media/pexels-jonathan-borba-3316918.jpg": "/PRODIGY_WD_01/static/media/pexels-jonathan-borba-3316918.28340b3a118e98a3cf21.jpg",
+    "static/media/pexels-maksim-goncharenok-4352247.jpg": "/PRODIGY_WD_01/static/media/pexels-maksim-goncharenok-4352247.e1287641aec750560e99.jpg",
+    "static/media/sofa.jpg": "/PRODIGY_WD_01/static/media/sofa.9f285d75666d84120ce2.jpg",
     "static/media/slick.svg": "/PRODIGY_WD_01/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/PRODIGY_WD_01/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/PRODIGY_WD_01/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/PRODIGY_WD_01/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/PRODIGY_WD_01/index.html",
     "main.e540b001.css.map": "/PRODIGY_WD_01/static/css/main.e540b001.css.map",
-    "main.e3c54051.js.map": "/PRODIGY_WD_01/static/js/main.e3c54051.js.map"
+    "main.092485ce.js.map": "/PRODIGY_WD_01/static/js/main.092485ce.js.map"
   },
   "entrypoints": [
     "static/css/main.e540b001.css",
-    "static/js/main.e3c54051.js"
+    "static/js/main.092485ce.js"
   ]
 }
