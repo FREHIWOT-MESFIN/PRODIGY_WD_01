@@ -1,5 +1,6 @@
 import React from 'react';
 import './products.css';
+import rate from '../../assets/icons/rating2.png'
 import products from "./productsdata.js";
 
 function Products() {
@@ -18,7 +19,7 @@ function Products() {
                 {product.name}
                 </div>
                 <div className="rate">
-                <img src="/assets/assets/icons/rating2.png" alt="rating" />
+                <img src={rate} alt="rating" />
                 </div>
               </div>
               <div className="price">

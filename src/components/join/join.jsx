@@ -1,4 +1,5 @@
 import React from 'react'
+import furVideo from '../../assets/videos/furniture.mp4'
 import './join.css'
 function Join() {
   return (
@@ -10,7 +11,7 @@ function Join() {
       <div className="join-content">
         <div className="jvideo">
             <div className="playbtn"><i className="fa-solid fa-play fa-2xl"></i></div>
-            <video src="/assets/assets/videos/furniture.mp4"></video>
+            <video src={furVideo}></video>
         </div>
         <div className="jform">
             <input type="email" placeholder='Email' />

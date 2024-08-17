@@ -1,5 +1,7 @@
 import React from 'react';
 import './about.css';
+import img1 from '../../assets/images/pexels-maksim-goncharenok-4352247.jpg';
+import img2 from '../../assets/images/pexels-dalila-dalprat-2179214.jpg'
 
 function AboutUs() {
   return (
@@ -11,8 +13,8 @@ function AboutUs() {
              assumenda delectus provident praesentium nam! Corporis cum ipsam quos nulla in nobis?</p>
       </div>
       <div className="about-img">
-        <img src="/assets/assets/images/pexels-maksim-goncharenok-4352247.jpg" alt="sofa" />
-        <img src="/assets/assets/images/pexels-dalila-dalprat-2179214.jpg" alt="chair" />
+        <img src={img1} alt="sofa" />
+        <img src={img2} alt="chair" />
       </div>
     </div>
   )

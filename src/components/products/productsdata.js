@@ -1,14 +1,17 @@
+import officeImg from '../../assets/images/office.jpg'; 
+import diningChairImg from '../../assets/images/sofa.jpg'; 
+
 let products = [
     {
         name: "Office table",
         rate: "5star",
-        imgUrl: "/assets/assets/images/office.jpg",
+        imgUrl: officeImg,
         price: 100
     },
     {
         name: "Sofa",
         rate: "5star",
-        imgUrl: "/assets/assets/images/sofa.jpg",
+        imgUrl: diningChairImg,
         price: 100 
     }
 ]

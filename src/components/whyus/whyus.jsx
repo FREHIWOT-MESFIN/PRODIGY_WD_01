@@ -1,5 +1,8 @@
 import React from 'react';
 import './whyus.css';
+import badge from '../../assets/icons/badge.png';
+import shield from '../../assets/icons/shield.png';
+import partner from '../../assets/icons/partners.png';
 
 function WhyUs() {
   return (
@@ -11,7 +14,7 @@ function WhyUs() {
       <div className="why-list">
         <div className="wlist">
             <div className="l1">
-                <img src="/assets/assets/icons/badge.png" alt="badge" />
+                <img src={badge} alt="badge" />
                 <h3>Quality</h3>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -20,7 +23,7 @@ function WhyUs() {
                 <button>More</button>
             </div>
             <div className="l2">
-                <img src="/assets/assets/icons/shield.png" alt="shield" />
+                <img src={shield} alt="shield" />
                 <h3>Longetivity</h3>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -29,7 +32,7 @@ function WhyUs() {
                 <button>More</button>
             </div>
             <div className="l3">
-                <img src="/assets/assets/icons/partners.png" alt="" />
+                <img src={partner} alt="" />
                 <h3>Community</h3>
                 <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
