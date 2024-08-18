@@ -42,55 +42,9 @@
     height: 50px;
     border-radius: 50%;
 }
-/* Add this to your CSS file */
-.swiper-slide {
-    text-align: center;
-    width: 100%;
-    max-width: 800px; /* Set max width */
-    margin: 0 auto; /* Center the slider */
-    padding: 20px;
-    background: #f9f9f9; /* Light background color */
-    border-radius: 10px; /* Rounded corners */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+
+@media (max-width:700px) {
+  .testimonial-container{
+    flex-direction: column;
   }
-  /* Style for Swiper dots */
-.swiper-pagination {
-    bottom: 10px; /* Position dots at the bottom */
-  }
-  
-  .swiper-pagination-bullet {
-    background: #007bff; /* Dot color */
-    opacity: 1; /* Full opacity */
-  }
-  
-  .swiper-pagination-bullet-active {
-    background: #ff5722; /* Active dot color */
-  }
-/* Pagination styling */
-.swiper-pagination {
-    bottom: 10px;
-  }
-  
-  .swiper-pagination-bullet {
-    background: #007bff;
-    opacity: 1;
-  }
-  
-  .swiper-pagination-bullet-active {
-    background: #ff5722;
-  }
-  
-  /* Navigation arrows styling */
-.swiper-slide-next,
-.swiper-slide-prev {
-    color: #ea00ff;
-    background: rgba(255, 255, 255, 0.8);
-    border-radius: 50%;
-    width: 40px;
-    height: 40px;
-  }
-  
-  .swiper-button-next:after,
-  .swiper-button-prev:after {
-    font-size: 20px;
-  }
+}
